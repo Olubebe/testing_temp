@@ -16,6 +16,5 @@ describe('sumOfNumbersTo', () => {
     expect(sumOfNumbersTo(-5)).toBe(0);
   });
 
-  // Add more test cases as needed for edge cases or other scenarios
 });
 
